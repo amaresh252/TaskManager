@@ -24,7 +24,7 @@ router
 
 async function main() {
   await mongoose.connect(
-    "mongodb+srv://amareshranjan:amaresh123@cluster0.xor3jwu.mongodb.net/?retryWrites=true&w=majority"
+    "Add Your Database Link"
   );
   console.log("database connected");
 }
